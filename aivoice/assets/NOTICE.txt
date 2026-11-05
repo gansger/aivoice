@@ -1,0 +1,8 @@
+dpdfnet2_48khz_hr.onnx
+  DPDFNet by Ceva, Apache License 2.0
+  https://huggingface.co/Ceva-IP/DPDFNet
+
+rnnoise.dll
+  RNNoise by Xiph.Org / Jean-Marc Valin, BSD 3-Clause License
+  Binary from the pyrnnoise package by Zhendong Peng, Apache License 2.0
+  https://github.com/xiph/rnnoise

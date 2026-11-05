@@ -1,0 +1,9 @@
+.venv/
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Created next to the program on each computer
+settings.json
+aivoice.log
